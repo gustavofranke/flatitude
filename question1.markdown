@@ -3,7 +3,7 @@
 * Just a short paragraph is fine, but I'd love to know why you're proud of it, 
 * what impact it had (If any) and any insights you took from it.
 
-My proudest achievement is a a data analysis platform I've designed, architected and implemented at work.
+My proudest achievement is a data analysis platform I've designed, architected and implemented at work.
 It uses new technologies that I had to learn almost from scratch, with new concepts I haven't seen before.
 
 The main reason I'm proud of it is because it was a complex project, with a huge number of disparate technologies in its stack.

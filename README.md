@@ -11,7 +11,8 @@ Flatitude
 ##### To run the program that answers question 3:
 * `git clone <repo>`
 * [install sbt](http://www.scala-sbt.org/0.13/docs/Setup.html)
-* `sbt compile`
+* *Optional:* `sbt compile`
 * `sbt "run <file path to customers json>"` (please notice the " characters location)
 * the program's output for your input value will be printed out in the stdout.
-* *Optional:* you can run `sbt test` to run all  test suites.
+* *Optional:* you can run `sbt test` to run all  test suites. Alternatively you can run
+`sbt "test-only CoreSuite"`

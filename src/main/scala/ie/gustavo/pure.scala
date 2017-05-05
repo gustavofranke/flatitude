@@ -35,7 +35,7 @@ object Core {
     }
   }
 
-  class Invitation(lines: List[String]) {
+  case class Invitation(lines: List[String]) {
     val intercomLatitude = 53.3381985
     val intercomLongitude = -6.2592576
     val radiusThreshold = 100
